@@ -1,2 +1,0 @@
-# DownshiftDropdownExample
-Created with CodeSandbox
